@@ -1,0 +1,48 @@
+
+                       be used for evaluation purposes
+12-Jul-2019 19:55
+                       _______________________________
+
+                       P E A K     F I T     R E P O R T
+                       _______________________________
+
+ Spectrum file Analysed: AA02262019_Al-3_16cm_room131.Chn 
+ Sample Title : Al-3, p-16                                       
+
+ Spectrum saved on 26-Feb-2019 at 15:15    Collected on 26-Feb-2019 at  5:10
+ Sample  Taken  on 26-Feb-2019 at  5:10    Decayed      0 Days,     0 mins.
+
+            Detector file number used:     1
+            Energy     Calibration Performed on 12-Jul-2019 at 17:02
+            Peak Shape Calibration Performed on 12-Jul-2019 at 17:38
+
+ 
+
+   Datetime:  26-Feb-2019   5:10
+   Live:       202.00 
+   Mass:      
+   Shelf:     
+   Detector:      1
+
+
+   Reported Activity values were rounded     
+   FitzPeaks Version: 3.71 23rd January 2014           
+
+ Peak   Centre   FW@HM         Goodness   Peak      %      Gammas       %      2 Sigma
+Energy  Channel  (KeV)  Signif  of Fit    Area   Uncert.  per sec.   Uncert. Background
+
+   72.7   387.0   1.14!   10.1    0.65      2672   14.1   1.3227e+01   14.1     3647
+   74.8   398.4   1.14!   16.6    0.65      5321    7.3   2.6342e+01    7.3     3343
+   84.6   450.7   1.00     7.8    1.61      1828   14.0   9.0480e+00   14.0     2465
+   87.3   464.8   1.01     3.3    1.61       496   47.9   2.4531e+00   47.9     2465
+  511.6  2722.9   3.03    10.4    1.27     12660    2.3   6.2675e+01    2.3     2012
+  847.6  4511.3   1.78     8.7    1.57      1275   10.4   6.3096e+00   10.4      926
+ 1369.8  7290.9   2.29    69.4    4.94     54361    1.2   2.6911e+02    1.2      461
+ 1371.4  7299.5   2.29    11.2    4.94      8537    4.5   4.2263e+01    4.5      440
+ 1733.5  9226.3   3.08!   11.1    1.62      3326    4.7   1.6464e+01    4.7      436
+ 2244.6 11946.7   3.03    13.2    1.02      4188    4.3   2.0733e+01    4.3      689
+ 2247.1 11960.0   3.04     6.2    1.02      1397   11.0   6.9181e+00   11.0      665
+ 2757.0 14673.6   3.16!   53.5   13.58     31453    1.5   1.5571e+02    1.5      -88
+ 2759.8 14688.6   3.16!   11.3   13.58      2029    7.8   1.0046e+01    7.8      -88
+
+ ! indicates the Iterative Peak Width fitting reached a limiting value.

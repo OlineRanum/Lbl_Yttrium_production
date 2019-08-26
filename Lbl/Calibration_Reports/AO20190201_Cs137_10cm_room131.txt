@@ -1,0 +1,38 @@
+
+                       be used for evaluation purposes
+ 5-Apr-2019 16:10
+                       _______________________________
+
+                       P E A K     F I T     R E P O R T
+                       _______________________________
+
+ Spectrum file Analysed: AO20190201_Cs137_10cm_room131.Ch 
+ Sample Title : Cs137                                            
+
+ Spectrum saved on  1-Feb-2019 at 14:12    Collected on  1-Feb-2019 at 13:05
+ Sample  Taken  on  1-Feb-2019 at 13:05    Decayed      0 Days,     0 mins.
+
+            Detector file number used:     1
+            Energy     Calibration Performed on  7-Mar-2019 at 14:38
+            Peak Shape Calibration Performed on  7-Mar-2019 at 14:40
+
+ 
+
+   Datetime:   1-Feb-2019  13:05
+   Live:       381.00 
+   Mass:      
+   Shelf:     
+   Detector:      1
+
+
+   Reported Activity values were rounded     
+   FitzPeaks Version: 3.71 23rd January 2014           
+
+ Peak   Centre   FW@HM         Goodness   Peak      %      Gammas       %      2 Sigma
+Energy  Channel  (KeV)  Signif  of Fit    Area   Uncert.  per sec.   Uncert. Background
+
+   72.7   387.2   0.97     7.1    0.97       561   14.1   1.4722e+00   14.1      444
+   74.9   398.8   0.97     9.4    0.97       951    9.0   2.4949e+00    9.0      444
+   84.6   450.8   0.98     4.1    0.89       400   17.7   1.0496e+00   17.7      401
+   87.2   464.5   0.98     3.4    0.89       133   45.1   3.4993e-01   45.1      360
+  661.7  3521.9   1.65    71.9    2.32     40680    1.1   1.0677e+02    1.1       21

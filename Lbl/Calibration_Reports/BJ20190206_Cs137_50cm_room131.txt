@@ -1,0 +1,44 @@
+
+                       be used for evaluation purposes
+ 5-Apr-2019 16:33
+                       _______________________________
+
+                       P E A K     F I T     R E P O R T
+                       _______________________________
+
+ Spectrum file Analysed: BJ20190206_Cs137_50cm_room131.Ch 
+ Sample Title : Cs137                                            
+
+ Spectrum saved on  6-Feb-2019 at 15:30    Collected on  6-Feb-2019 at 13:57
+ Sample  Taken  on  6-Feb-2019 at 13:57    Decayed      0 Days,     0 mins.
+
+            Detector file number used:     1
+            Energy     Calibration Performed on  7-Mar-2019 at 14:38
+            Peak Shape Calibration Performed on  7-Mar-2019 at 14:40
+
+ 
+
+   Datetime:   6-Feb-2019  13:57
+   Live:      1911.00 
+   Mass:      
+   Shelf:     
+   Detector:      1
+
+
+   Reported Activity values were rounded     
+   FitzPeaks Version: 3.71 23rd January 2014           
+
+ Peak   Centre   FW@HM         Goodness   Peak      %      Gammas       %      2 Sigma
+Energy  Channel  (KeV)  Signif  of Fit    Area   Uncert.  per sec.   Uncert. Background
+
+   72.7   387.2   0.97     7.2    1.11       745   11.2   3.9003e-01   11.2      514
+   74.9   398.9   0.97     9.7    1.11      1290    7.4   6.7526e-01    7.4      514
+   84.7   451.4   0.98     4.7    0.88       477   15.8   2.4954e-01   15.8      488
+   87.2   464.2   0.98     3.3    0.88       169   40.9   8.8188e-02   40.9      488
+  239.0  1272.1   1.16     3.4    0.57        86   59.7   4.5027e-02   59.7      297
+  352.3  1875.2   1.29     3.4    0.91       128   43.5   6.7061e-02   43.5      258
+  609.8  3245.9   1.60     3.6    0.98       119   26.9   6.2322e-02   26.9       58
+  662.1  3524.3   1.64    40.3    1.01     13037    1.6   6.8220e+00    1.6       21
+  911.9  4853.9   1.95     3.3    0.65        45   41.6   2.3476e-02   41.6       14
+ 1461.8  7780.3   2.60     4.8    0.78       267   13.7   1.3983e-01   13.7        6
+ 2616.3 13924.8   3.95     4.1    0.48        43   57.3   2.2493e-02   57.3        3
